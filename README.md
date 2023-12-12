@@ -1,9 +1,9 @@
 # Electrical-Power-System-Analysis
 Este repositório contém o que desenvolvi como bolsista na UFSM em Python e que resultou no meu trabalho de conclusão do curso, intitulado "Metodologia para Modelagem e Análise Integrada de Redes de Transmissão e Distribuição no Software OpenDSS"
 
-Notar que na êpoca que o trabalho foi desenvolvido o ANAREDE se encontrava na versão 11.0.1, o OpenDSS na versão 9.0.0.3. e o Python na versão 3.7.
+Importante ressaltar que na êpoca que o trabalho foi desenvolvido o ANAREDE se encontrava na versão 11.0.1, o OpenDSS na versão 9.0.0.3. e o Python na versão 3.7.
 
-O código "conversor_pwf_to_py" serve para converter o cartão .pwf, utilizado pelo ANAREDE, para um formato de dados em Python.
+O código "conversor_pwf_to_py" serve para converter o cartão .pwf, utilizado pelo ANAREDE, para um formato de dados usado no ambiente Python.
 
 O código "conversor_py_to_dss" serve para converter os dados obtidos da primeira conversão em um formato .dss para ser lido pelo OpenDSS
 
